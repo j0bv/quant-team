@@ -1,0 +1,3 @@
+cdxbasics >= 0.2.24
+tensorflow >= 2.11
+tensorflow_probability >= 0.19
