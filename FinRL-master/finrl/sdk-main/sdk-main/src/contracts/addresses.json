@@ -1,0 +1,107 @@
+{
+  "137": {
+    "global": {
+      "gnsMultiCollatDiamond": "0x209A9A01980377916851af2cA075C2b170452018"
+    },
+    "DAI": {
+      "gTokenOpenPnlFeed": "0x8d687276543b92819F2f2B5C3faad4AD27F4440c",
+      "gToken": "0x91993f2101cc758D0dEB7279d41e880F7dEFe827"
+    },
+    "ETH": {
+      "gTokenOpenPnlFeed": "0xF07f4507DD6A057Aea509cB9b218B7C4D1894473",
+      "gToken": "0x1544E1fF1a6f6Bdbfb901622C12bb352a43464Fb"
+    },
+    "USDC": {
+      "gTokenOpenPnlFeed": "0xFF84e736A15F80E7E104e153d7f7D6c9bd6fE822",
+      "gToken": "0x29019Fe2e72E8d4D2118E8D0318BeF389ffe2C81"
+    },
+    "APE": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    }
+  },
+  "42161": {
+    "global": {
+      "gnsMultiCollatDiamond": "0xFF162c694eAA571f685030649814282eA457f169"
+    },
+    "DAI": {
+      "gTokenOpenPnlFeed": "0x990BA9Edd8a9615A23E4c452E63A80e519A4a23D",
+      "gToken": "0xd85E038593d7A098614721EaE955EC2022B9B91B"
+    },
+    "ETH": {
+      "gTokenOpenPnlFeed": "0x018D9A3F0D06cCb7C305B7C9219a4307e1f9f27e",
+      "gToken": "0x5977A9682D7AF81D347CFc338c61692163a2784C"
+    },
+    "USDC": {
+      "gTokenOpenPnlFeed": "0xBF55C78132ab06a2B217040b7A7F20B5cBD47982",
+      "gToken": "0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0"
+    },
+    "APE": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    }
+  },
+  "421614": {
+    "global": {
+      "gnsMultiCollatDiamond": "0xd659a15812064C79E189fd950A189b15c75d3186"
+    },
+    "DAI": {
+      "gTokenOpenPnlFeed": "0x371a924C2DC433D0C83b67Ff71A4CBd2013b5046",
+      "gToken": "0xD6e33C7560009D60052d7A5E0476A8Db295bF8C7"
+    },
+    "ETH": {
+      "gTokenOpenPnlFeed": "0xab1042C2767461D59ABC9547b3B717ccae3Eb7C9",
+      "gToken": "0xfd7E69042812f3416C18261673b55eD005F67E01"
+    },
+    "USDC": {
+      "gTokenOpenPnlFeed": "0x38e6cEFcE96bdB65D64Fce8f4736b3763A5F9eD2",
+      "gToken": "0xb0C25646774Ad985B4f9ccD262623bA6D6F64677"
+    },
+    "APE": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    }
+  },
+  "8453": {
+    "global": {
+      "gnsMultiCollatDiamond": "0x6cD5aC19a07518A8092eEFfDA4f1174C72704eeb"
+    },
+    "DAI": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    },
+    "ETH": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    },
+    "USDC": {
+      "gTokenOpenPnlFeed": "0xefA1C2753daD877Bb6531bBa9D9c589B5433Be37",
+      "gToken": "0xad20523A7dC37bAbc1CC74897E4977232b3D02e5"
+    },
+    "APE": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    }
+  },
+  "33139": {
+    "global": {
+      "gnsMultiCollatDiamond": "0x2BE5D7058AdBa14Bc38E4A83E94A81f7491b0163"
+    },
+    "DAI": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    },
+    "ETH": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    },
+    "USDC": {
+      "gTokenOpenPnlFeed": "0x0000000000000000000000000000000000000000",
+      "gToken": "0x0000000000000000000000000000000000000000"
+    },
+    "APE": {
+      "gTokenOpenPnlFeed": "0x33FE6f374C4a44C50F4362c93372f0EB09d968F5",
+      "gToken": "0xDd9C98e5022AF88B9c991ab24F02B4A8Be81D860"
+    }
+  }
+}
