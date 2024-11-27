@@ -1,1 +1,0 @@
-https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF
