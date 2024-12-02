@@ -1,0 +1,21 @@
+# Shared configuration for all agents
+environment:
+  market_data_source: "yahoo"
+  time_interval: "1d"
+  start_date: "2010-01-01"
+  end_date: "2023-12-31"
+
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  epochs: 100
+  validation_split: 0.2
+
+model:
+  hidden_layers: [128, 64, 32]
+  dropout_rate: 0.2
+  activation: "relu"
+
+logging:
+  level: "INFO"
+  save_path: "/app/logs"
