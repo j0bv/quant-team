@@ -37,6 +37,14 @@ services:
     volumes:
       - ./shared:/app/shared
 
+  crewai:
+    build:
+      context: ./agents/crewai
+    networks:
+      - agent_network
+    volumes:
+      - ./shared:/app/shared
+
   deephedging:
     build:
       context: ./agents/deephedging
@@ -45,9 +53,9 @@ services:
     volumes:
       - ./shared:/app/shared
 
-  crewai:
+  qwen:
     build:
-      context: ./agents/crewai
+      context: ./agents/qwen
     networks:
       - agent_network
     volumes:
